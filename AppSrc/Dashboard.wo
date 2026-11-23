@@ -58,8 +58,6 @@ Object oDashboard is a cWebView
             
             Set psCSSClass to "TilesGroup"
     
-            
-    
     
         End_Object
         Object oTileEntrenador is a cWebHtmlBox
